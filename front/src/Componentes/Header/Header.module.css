@@ -1,0 +1,23 @@
+.header {
+  width: 100%;
+  height: 70px;
+  background-color: yellowgreen;
+}
+.section_header {
+  background-color: turquoise;
+  height: 100%;
+}
+
+.logo {
+  width: fit-content;
+  height: 100%;
+  text-decoration: none;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.logo h1 {
+  font-size: 2rem;
+  text-transform: uppercase;
+}
